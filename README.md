@@ -1,2 +1,2 @@
 # pong-lwjgl
-I made aa bad version of pong with lwjgl
+I made a bad version of pong with lwjgl
